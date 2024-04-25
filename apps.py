@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class PollappConfig(AppConfig):
+class LandingpagesConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
-    name = "pollApp"
+    name = "landingPages"
